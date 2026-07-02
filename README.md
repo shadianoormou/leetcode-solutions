@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-- Total Solved: 6
+- Total Solved: 10
 - Easy: 5
-- Medium: 1
+- Medium: 5
 - Hard: 0
 
 ## Solved Problems
@@ -19,3 +19,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 4 | Find the Safest Path in a Grid | Medium | BFS, Heap, Graph, Matrix | [Python](graphs/find_safest_path_in_a_grid.py) |
 | 5 | Best Time to Buy and Sell Stock | Easy | Array, One Pass | [Python](arrays/best_time_to_buy_and_sell_stock.py) |
 | 6 | Valid Palindrome | Easy | Two Pointers, String | [Python](strings/valid_palindrome.py) |
+| 7 | Group Anagrams | Medium | HashMap, String | [Python](strings/group_anagrams.py) |
+| 8 | Product of Array Except Self | Medium | Array, Prefix Product, Suffix Product | [Python](arrays/product_of_array_except_self.py) |
+| 9 | Longest Substring Without Repeating Characters | Medium | Sliding Window, HashMap | [Python](strings/longest_substring_without_repeating_characters.py) |
+| 10 | Find a Safe Walk Through a Grid | Medium | 0-1 BFS, Graph, Matrix | [Python](graphs/find_a_safe_walk_through_a_grid.py) |
