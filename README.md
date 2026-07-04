@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 14
+* Total Solved: 17
 * Easy: 5
-* Medium: 8
+* Medium: 11
 * Hard: 1
 
 ## Solved Problems
@@ -28,3 +28,5 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 13  | Container With Most Water                      | Medium     | Two Pointers, Array                         | [Python](arrays/container_with_most_water.py)                       |
 | 14  | Network Recovery Pathways                      | Hard       | Binary Search, DAG, Topological Sort, Graph | [Python](graphs/network_recovery_pathways.py)                       |
 | 15 | Minimum Score of a Path Between Two Cities | Medium | Graph, BFS | [Python](graphs/minimum_score_of_a_path_between_two_cities.py) |
+| 16 | 3Sum | Medium | Array, Sorting, Two Pointers | [Python](arrays/three_sum.py) |
+| 17 | Subarray Sum Equals K | Medium | Array, Prefix Sum, HashMap | [Python](arrays/subarray_sum_equals_k.py) |
