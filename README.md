@@ -27,3 +27,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 12  | Search in Rotated Sorted Array                 | Medium     | Binary Search, Array                        | [Python](arrays/search_in_rotated_sorted_array.py)                  |
 | 13  | Container With Most Water                      | Medium     | Two Pointers, Array                         | [Python](arrays/container_with_most_water.py)                       |
 | 14  | Network Recovery Pathways                      | Hard       | Binary Search, DAG, Topological Sort, Graph | [Python](graphs/network_recovery_pathways.py)                       |
+| 15 | Minimum Score of a Path Between Two Cities | Medium | Graph, BFS | [Python](graphs/minimum_score_of_a_path_between_two_cities.py) |
