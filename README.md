@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 17
-* Easy: 5
+* Total Solved: 19
+* Easy: 7
 * Medium: 11
 * Hard: 1
 
@@ -30,3 +30,5 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 15 | Minimum Score of a Path Between Two Cities | Medium | Graph, BFS | [Python](graphs/minimum_score_of_a_path_between_two_cities.py) |
 | 16 | 3Sum | Medium | Array, Sorting, Two Pointers | [Python](arrays/three_sum.py) |
 | 17 | Subarray Sum Equals K | Medium | Array, Prefix Sum, HashMap | [Python](arrays/subarray_sum_equals_k.py) |
+| 18 | Max Consecutive Ones | Easy | Array | [Python](arrays/max_consecutive_ones.py) |
+| 19 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | [Python](arrays/remove_duplicates_from_sorted_array.py) |
