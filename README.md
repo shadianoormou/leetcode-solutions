@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 19
-* Easy: 7
+* Total Solved: 20
+* Easy: 8
 * Medium: 11
 * Hard: 1
 
@@ -27,8 +27,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 12  | Search in Rotated Sorted Array                 | Medium     | Binary Search, Array                        | [Python](arrays/search_in_rotated_sorted_array.py)                  |
 | 13  | Container With Most Water                      | Medium     | Two Pointers, Array                         | [Python](arrays/container_with_most_water.py)                       |
 | 14  | Network Recovery Pathways                      | Hard       | Binary Search, DAG, Topological Sort, Graph | [Python](graphs/network_recovery_pathways.py)                       |
-| 15 | Minimum Score of a Path Between Two Cities | Medium | Graph, BFS | [Python](graphs/minimum_score_of_a_path_between_two_cities.py) |
-| 16 | 3Sum | Medium | Array, Sorting, Two Pointers | [Python](arrays/three_sum.py) |
-| 17 | Subarray Sum Equals K | Medium | Array, Prefix Sum, HashMap | [Python](arrays/subarray_sum_equals_k.py) |
+| 15 | Minimum Score of a Path Between Two Cities      | Medium     | Graph, BFS                                  | [Python](graphs/minimum_score_of_a_path_between_two_cities.py)      |
+| 16 | 3Sum                                            | Medium     | Array, Sorting, Two Pointers                | [Python](arrays/three_sum.py)                                       |
+| 17 | Subarray Sum Equals K                           | Medium     | Array, Prefix Sum, HashMap                  | [Python](arrays/subarray_sum_equals_k.py)                           |
 | 18 | Max Consecutive Ones | Easy | Array | [Python](arrays/max_consecutive_ones.py) |
 | 19 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | [Python](arrays/remove_duplicates_from_sorted_array.py) |
+| 20 | Find Pivot Index | Easy | Array, Prefix Sum | [Python](arrays/find_pivot_index.py) |
