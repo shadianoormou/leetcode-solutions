@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 20
-* Easy: 8
+* Total Solved: 21
+* Easy: 9
 * Medium: 11
 * Hard: 1
 
@@ -33,3 +33,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 18 | Max Consecutive Ones | Easy | Array | [Python](arrays/max_consecutive_ones.py) |
 | 19 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | [Python](arrays/remove_duplicates_from_sorted_array.py) |
 | 20 | Find Pivot Index | Easy | Array, Prefix Sum | [Python](arrays/find_pivot_index.py) |
+| 21 | Running Sum of 1d Array | Easy | Array, Prefix Sum | [Python](arrays/running_sum_of_1d_array.py) |
