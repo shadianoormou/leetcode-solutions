@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 21
+* Total Solved: 22
 * Easy: 9
 * Medium: 11
-* Hard: 1
+* Hard: 2
 
 ## Solved Problems
 
@@ -34,3 +34,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 19 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | [Python](arrays/remove_duplicates_from_sorted_array.py) |
 | 20 | Find Pivot Index | Easy | Array, Prefix Sum | [Python](arrays/find_pivot_index.py) |
 | 21 | Running Sum of 1d Array | Easy | Array, Prefix Sum | [Python](arrays/running_sum_of_1d_array.py) |
+| 22 | Number of Paths with Max Score | Hard | Dynamic Programming, Matrix, Path Counting | [Python](dynamic_programming/number_of_paths_with_max_score.py) |
