@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 22
+* Total Solved: 23
 * Easy: 9
-* Medium: 11
+* Medium: 12
 * Hard: 2
 
 ## Solved Problems
@@ -35,3 +35,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 20 | Find Pivot Index | Easy | Array, Prefix Sum | [Python](arrays/find_pivot_index.py) |
 | 21 | Running Sum of 1d Array | Easy | Array, Prefix Sum | [Python](arrays/running_sum_of_1d_array.py) |
 | 22 | Number of Paths with Max Score | Hard | Dynamic Programming, Matrix, Path Counting | [Python](dynamic_programming/number_of_paths_with_max_score.py) |
+| 23 | Remove Covered Intervals | Medium | Array, Sorting, Intervals | [Python](intervals/remove_covered_intervals.py) |
