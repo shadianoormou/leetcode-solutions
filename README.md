@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 25
+* Total Solved: 28
 * Easy: 10
-* Medium: 13
+* Medium: 16
 * Hard: 2
 
 ## Solved Problems
@@ -38,3 +38,6 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 23 | Remove Covered Intervals | Medium | Array, Sorting, Intervals | [Python](intervals/remove_covered_intervals.py) |
 | 24 | Merge Intervals | Medium | Array, Sorting, Intervals | [Python](intervals/merge_intervals.py) |
 | 25 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | Math, String, Simulation | [Python](math/concatenate_non_zero_digits_and_multiply_by_sum.py) |
+| 26 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | [Python](binary_search/find_minimum_in_rotated_sorted_array.py) |
+| 27 | Longest Repeating Character Replacement | Medium | String, Sliding Window, HashMap | [Python](sliding_window/longest_repeating_character_replacement.py) |
+| 28 | Course Schedule | Medium | Graph, BFS, Topological Sort | [Python](graphs/course_schedule.py) |
