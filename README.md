@@ -36,5 +36,5 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 21 | Running Sum of 1d Array | Easy | Array, Prefix Sum | [Python](arrays/running_sum_of_1d_array.py) |
 | 22 | Number of Paths with Max Score | Hard | Dynamic Programming, Matrix, Path Counting | [Python](dynamic_programming/number_of_paths_with_max_score.py) |
 | 23 | Remove Covered Intervals | Medium | Array, Sorting, Intervals | [Python](intervals/remove_covered_intervals.py) |
-| 16 | Merge Intervals | Medium | Array, Sorting, Intervals | [Python](intervals/merge_intervals.py) |
-| 24 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | Math, String, Simulation | [Python](math/concatenate_non_zero_digits_and_multiply_by_sum.py) |
+| 24 | Merge Intervals | Medium | Array, Sorting, Intervals | [Python](intervals/merge_intervals.py) |
+| 25 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | Math, String, Simulation | [Python](math/concatenate_non_zero_digits_and_multiply_by_sum.py) |
