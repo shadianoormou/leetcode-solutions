@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 31
+* Total Solved: 32
 * Easy: 11
-* Medium: 17
+* Medium: 18
 * Hard: 3
 
 ## Solved Problems
@@ -44,4 +44,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 29  | Binary Search       | Easy       | Binary Search, Array   | [Python](binary_search/binary_search.py)      |
 | 30  | Daily Temperatures  | Medium     | Stack, Monotonic Stack | [Python](stacks/daily_temperatures.py)        |
 | 31  | Trapping Rain Water | Hard       | Two Pointers, Array    | [Python](two_pointers/trapping_rain_water.py) |
-
+| 32 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Prefix Sum, String, Math | [Python](prefix_sum/concatenate_non_zero_digits_and_multiply_by_sum_ii.py) |
