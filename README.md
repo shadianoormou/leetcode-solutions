@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 28
-* Easy: 10
-* Medium: 16
-* Hard: 2
+* Total Solved: 31
+* Easy: 11
+* Medium: 17
+* Hard: 3
 
 ## Solved Problems
 
@@ -41,3 +41,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 26 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | [Python](binary_search/find_minimum_in_rotated_sorted_array.py) |
 | 27 | Longest Repeating Character Replacement | Medium | String, Sliding Window, HashMap | [Python](sliding_window/longest_repeating_character_replacement.py) |
 | 28 | Course Schedule | Medium | Graph, BFS, Topological Sort | [Python](graphs/course_schedule.py) |
+| 29  | Binary Search       | Easy       | Binary Search, Array   | [Python](binary_search/binary_search.py)      |
+| 30  | Daily Temperatures  | Medium     | Stack, Monotonic Stack | [Python](stacks/daily_temperatures.py)        |
+| 31  | Trapping Rain Water | Hard       | Two Pointers, Array    | [Python](two_pointers/trapping_rain_water.py) |
+
