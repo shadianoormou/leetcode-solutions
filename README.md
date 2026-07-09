@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 33
-* Easy: 11
+* Total Solved: 34
+* Easy: 12
 * Medium: 20
 * Hard: 3
 
@@ -46,3 +46,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 31  | Trapping Rain Water | Hard       | Two Pointers, Array    | [Python](two_pointers/trapping_rain_water.py) |
 | 32 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Prefix Sum, String, Math | [Python](prefix_sum/concatenate_non_zero_digits_and_multiply_by_sum_ii.py) |
 | 33 | Path Existence Queries in a Graph I | Medium | Graph, Connected Components | [Python](graphs/path_existence_queries_in_a_graph_i.py) |
+| 34 | Search Insert Position | Easy | Array, Binary Search | [Python](binary_search/search_insert_position.py) |
