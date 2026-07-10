@@ -6,7 +6,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 * Total Solved: 35
 * Easy: 12
-* Medium: 19
+* Medium: 20
 * Hard: 4
 
 ## Solved Problems
@@ -48,3 +48,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 33 | Path Existence Queries in a Graph I | Medium | Graph, Connected Components | [Python](graphs/path_existence_queries_in_a_graph_i.py) |
 | 34 | Search Insert Position | Easy | Array, Binary Search | [Python](binary_search/search_insert_position.py) |
 | 35 | Path Existence Queries in a Graph II | Hard | Graph, Sorting, Two Pointers, Binary Lifting | [Python](graphs/path_existence_queries_in_a_graph_ii.py) |
+| 36 | Minimum Operations to Reduce X to Zero | Medium | Array, Sliding Window, Prefix Sum | [Python](sliding_window/minimum_operations_to_reduce_x_to_zero.py) |
