@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 35
+* Total Solved: 37
 * Easy: 12
-* Medium: 20
+* Medium: 21
 * Hard: 4
 
 ## Solved Problems
@@ -49,3 +49,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 34 | Search Insert Position | Easy | Array, Binary Search | [Python](binary_search/search_insert_position.py) |
 | 35 | Path Existence Queries in a Graph II | Hard | Graph, Sorting, Two Pointers, Binary Lifting | [Python](graphs/path_existence_queries_in_a_graph_ii.py) |
 | 36 | Minimum Operations to Reduce X to Zero | Medium | Array, Sliding Window, Prefix Sum | [Python](sliding_window/minimum_operations_to_reduce_x_to_zero.py) |
+| 37 | Count the Number of Complete Components | Medium | Graph, DFS, Connected Components | [Python](graphs/count_the_number_of_complete_components.py) |
