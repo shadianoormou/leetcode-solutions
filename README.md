@@ -6,7 +6,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 * Total Solved: 38
 * Easy: 13
-* Medium: 21
+* Medium: 22
 * Hard: 4
 
 ## Solved Problems
@@ -51,3 +51,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 36 | Minimum Operations to Reduce X to Zero | Medium | Array, Sliding Window, Prefix Sum | [Python](sliding_window/minimum_operations_to_reduce_x_to_zero.py) |
 | 37 | Count the Number of Complete Components | Medium | Graph, DFS, Connected Components | [Python](graphs/count_the_number_of_complete_components.py) |
 | 38 | Rank Transform of an Array | Easy | Array, Hash Table, Sorting | [Python](arrays/rank_transform_of_an_array.py) |
+| 39 | Sequential Digits | Medium | Math | [Python](math/sequential_digits.py) |
