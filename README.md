@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 40
-* Easy: 13
+* Total Solved: 41
+* Easy: 14
 * Medium: 22
 * Hard: 5
 
@@ -53,3 +53,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 38 | Rank Transform of an Array | Easy | Array, Hash Table, Sorting | [Python](arrays/rank_transform_of_an_array.py) |
 | 39 | Sequential Digits | Medium | Math | [Python](math/sequential_digits.py) |
 | 40 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming, Math, GCD | [Python](dynamic_programming/find_the_number_of_subsequences_with_equal_gcd.py) |
+| 41 | GCD of Odd and Even Sums | Easy | Math, GCD | [Python](math/gcd_of_odd_and_even_sums.py) |
