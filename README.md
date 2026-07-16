@@ -6,7 +6,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 * Total Solved: 41
 * Easy: 14
-* Medium: 22
+* Medium: 23
 * Hard: 5
 
 ## Solved Problems
@@ -54,3 +54,5 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 39 | Sequential Digits | Medium | Math | [Python](math/sequential_digits.py) |
 | 40 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming, Math, GCD | [Python](dynamic_programming/find_the_number_of_subsequences_with_equal_gcd.py) |
 | 41 | GCD of Odd and Even Sums | Easy | Math, GCD | [Python](math/gcd_of_odd_and_even_sums.py) |
+| 42 | Sum of GCD of Formed Pairs | Medium | Math, GCD, Sorting, Simulation | Python |
+
