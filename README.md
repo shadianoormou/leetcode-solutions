@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 43
-* Easy: 14
+* Total Solved: 44
+* Easy: 15
 * Medium: 23
 * Hard: 6
 
@@ -56,4 +56,5 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 41 | GCD of Odd and Even Sums | Easy | Math, GCD | [Python](math/gcd_of_odd_and_even_sums.py) |
 | 42 | Sum of GCD of Formed Pairs | Medium | Math, GCD, Sorting, Simulation | Python |
 | 43 | Sorted GCD Pair Queries | Hard | Math, GCD, Number Theory, Binary Search, Inclusion-Exclusion | [Python](./math/3312_sorted_gcd_pair_queries.py) |
+| 44 | Find Greatest Common Divisor of Array | Easy | Array, Math, Number Theory | [Python](arrays/find_greatest_common_divisor_of_array.py) |
 
