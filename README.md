@@ -58,4 +58,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 43 | Sorted GCD Pair Queries | Hard | Math, GCD, Number Theory, Binary Search, Inclusion-Exclusion | [Python](./math/3312_sorted_gcd_pair_queries.py) |
 | 44 | Find Greatest Common Divisor of Array | Easy | Array, Math, Number Theory | [Python](arrays/find_greatest_common_divisor_of_array.py) |
 | 45 | Smallest Subsequence of Distinct Characters | Medium | String, Stack, Greedy, Monotonic Stack | [Python](stacks/smallest_subsequence_of_distinct_characters.py) |
-
+| 46 | Shift 2D Grid | Easy | Array, Matrix, Simulation | C++ |[Python]
