@@ -7,7 +7,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 * Total Solved: 47
 * Easy: 16
 * Medium: 25
-* Hard: 6
+* Hard: 7
 
 ## Solved Problems
 
@@ -60,3 +60,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 45 | Smallest Subsequence of Distinct Characters | Medium | String, Stack, Greedy, Monotonic Stack | [Python](stacks/smallest_subsequence_of_distinct_characters.py) |
 | 46 | Shift 2D Grid | Easy | Array, Matrix, Simulation | C++ |[Python]
 | 47 | Maximize Active Section with Trade I | Medium | String, Greedy | [Python](strings/maximize_active_section_with_trade_i.py) |
+| 48 | Maximize Active Section with Trade II | Hard | Segment Tree, String, Greedy | [Python](Segment_Tree/3501_Maximize_Active_Section_with_Trade_II.py) |
