@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 50
-* Easy: 16
+* Total Solved: 51
+* Easy: 17
 * Medium: 27
 * Hard: 7
 
@@ -63,3 +63,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 48 | Maximize Active Section with Trade II | Hard | Segment Tree, String, Greedy | [Python](Segment_Tree/3501_Maximize_Active_Section_with_Trade_II.py) |
 | 49 | Number of Unique XOR Triplets I | Medium | Array, Bit Manipulation, Math | [Python](./Array/49-number-of-unique-xor-triplets-i.py) |
 | 50 | Number of Unique XOR Triplets II | Medium | Array, Hash Table, Bit Manipulation | [Python](./Array/50-number-of-unique-xor-triplets-ii.py) |
+| 51 | Maximum Product of Two Digits | Easy | Array, Math | [Python](./Array/51-maximum-product-of-two-digits.py) |
