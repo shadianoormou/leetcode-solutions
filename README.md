@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 53
+* Total Solved: 54
 * Easy: 19
-* Medium: 27
+* Medium: 28
 * Hard: 7
 
 ## Solved Problems
@@ -66,3 +66,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 51 | Maximum Product of Two Digits | Easy | Array, Math | [Python](./Array/51-maximum-product-of-two-digits.py) |
 | 52 | Maximum Product of Three Numbers | Easy | Array, Math, Sorting | [Python](./Array/52-maximum-product-of-three-numbers.py) |
 | 53 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap | [Python](./Array/53-maximum-product-of-two-elements-in-an-array.py) |
+| 54 | Smallest Palindromic Rearrangement I | Medium | String, Hash Table, Sorting, Counting | [Python](./String/54-smallest-palindromic-rearrangement-i.py) |
