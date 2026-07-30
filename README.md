@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 55
-* Easy: 19
+* Total Solved: 56
+* Easy: 20
 * Medium: 28
 * Hard: 8
 
@@ -68,3 +68,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 53 | Maximum Product of Two Elements in an Array | Easy | Array, Sorting, Heap | [Python](./Array/53-maximum-product-of-two-elements-in-an-array.py) |
 | 54 | Smallest Palindromic Rearrangement I | Medium | String, Hash Table, Sorting, Counting | [Python](./String/54-smallest-palindromic-rearrangement-i.py) |
 | 55 | Smallest Palindromic Rearrangement II | Hard | String, Hash Table, Math, Combinatorics, Counting | [Python](./String/55-smallest-palindromic-rearrangement-ii.py) |
+| 56 | Minimum Number of Pushes to Type Word I | Easy | String, Greedy | [Python](./String/56-minimum-number-of-pushes-to-type-word-i.py) |
