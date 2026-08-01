@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 57
+* Total Solved: 58
 * Easy: 20
-* Medium: 29
+* Medium: 30
 * Hard: 8
 
 ## Solved Problems
@@ -70,3 +70,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 55 | Smallest Palindromic Rearrangement II | Hard | String, Hash Table, Math, Combinatorics, Counting | [Python](./String/55-smallest-palindromic-rearrangement-ii.py) |
 | 56 | Minimum Number of Pushes to Type Word I | Easy | String, Greedy | [Python](./String/56-minimum-number-of-pushes-to-type-word-i.py) |
 | 57 | Minimum Number of Pushes to Type Word II | Medium | String, Hash Table, Greedy, Sorting, Counting | [Python](./String/57-minimum-number-of-pushes-to-type-word-ii.py) |
+| 58 | Predict the Winner | Medium | Array, Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/58-predict-the-winner.py) |
