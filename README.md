@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 59
+* Total Solved: 60
 * Easy: 20
 * Medium: 31
-* Hard: 8
+* Hard: 9
 
 ## Solved Problems
 
@@ -72,3 +72,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 57 | Minimum Number of Pushes to Type Word II | Medium | String, Hash Table, Greedy, Sorting, Counting | [Python](./String/57-minimum-number-of-pushes-to-type-word-ii.py) |
 | 58 | Predict the Winner | Medium | Array, Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/58-predict-the-winner.py) |
 | 59 | Stone Game | Medium | Array, Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/59-stone-game.py) |
+| 60 | Stone Game III | Hard | Array, Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/60-stone-game-iii.py) |
