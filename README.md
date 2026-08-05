@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 61
+* Total Solved: 62
 * Easy: 21
-* Medium: 31
+* Medium: 32
 * Hard: 9
 
 ## Solved Problems
@@ -74,3 +74,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 59 | Stone Game | Medium | Array, Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/59-stone-game.py) |
 | 60 | Stone Game III | Hard | Array, Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/60-stone-game-iii.py) |
 | 61 | Find Missing Elements | Easy | Array, Hash Table | [Python](./Array/61-find-missing-elements.py) |
+| 62 | Remove Methods From Project | Medium | Graph, DFS, Reachability | [Python](./Graph/62-remove-methods-from-project.py) |
