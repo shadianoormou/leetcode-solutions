@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 63
+* Total Solved: 64
 * Easy: 22
 * Medium: 32
-* Hard: 9
+* Hard: 10
 
 ## Solved Problems
 
@@ -76,3 +76,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 61 | Find Missing Elements | Easy | Array, Hash Table | [Python](./Array/61-find-missing-elements.py) |
 | 62 | Remove Methods From Project | Medium | Graph, DFS, Reachability | [Python](./Graph/62-remove-methods-from-project.py) |
 | 63 | Smallest Divisible Digit Product I | Easy | Math, Enumeration | [Python](./Math/63-smallest-divisible-digit-product-i.py) |
+| 64 | Smallest Divisible Digit Product II | Hard | String, Math, Greedy, Number Theory | [Python](./Math/64-smallest-divisible-digit-product-ii.py) |
