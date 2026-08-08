@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 64
+* Total Solved: 65
 * Easy: 22
-* Medium: 32
+* Medium: 33
 * Hard: 10
 
 ## Solved Problems
@@ -77,3 +77,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 62 | Remove Methods From Project | Medium | Graph, DFS, Reachability | [Python](./Graph/62-remove-methods-from-project.py) |
 | 63 | Smallest Divisible Digit Product I | Easy | Math, Enumeration | [Python](./Math/63-smallest-divisible-digit-product-i.py) |
 | 64 | Smallest Divisible Digit Product II | Hard | String, Math, Greedy, Number Theory | [Python](./Math/64-smallest-divisible-digit-product-ii.py) |
+| 65 | Find the Lexicographically Smallest Valid Sequence | Medium | String, Two Pointers, Greedy | [Python](./String/65-find-the-lexicographically-smallest-valid-sequence.py) |
