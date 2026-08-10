@@ -7,7 +7,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 * Total Solved: 67
 * Easy: 22
 * Medium: 34
-* Hard: 10
+* Hard: 11
 
 ## Solved Problems
 
@@ -79,3 +79,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 64 | Smallest Divisible Digit Product II | Hard | String, Math, Greedy, Number Theory | [Python](./Math/64-smallest-divisible-digit-product-ii.py) |
 | 65 | Find the Lexicographically Smallest Valid Sequence | Medium | String, Two Pointers, Greedy | [Python](./String/65-find-the-lexicographically-smallest-valid-sequence.py) |
 | 66 | Stone Game II | Medium | Array, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/66-stone-game-ii.py) |
+| 67 | Stone Game IV | Hard | Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/67-stone-game-iv.py) |
