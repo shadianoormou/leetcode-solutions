@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 68
+* Total Solved: 69
 * Easy: 23
-* Medium: 34
+* Medium: 35
 * Hard: 11
 
 ## Solved Problems
@@ -81,3 +81,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 66 | Stone Game II | Medium | Array, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/66-stone-game-ii.py) |
 | 67 | Stone Game IV | Hard | Math, Dynamic Programming, Game Theory | [Python](./Dynamic-Programming/67-stone-game-iv.py) |
 | 68 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | Array, Hash Table, Simulation | [Python](./Array/68-smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
+| 69 | Length of Longest Subarray With at Most K Frequency | Medium | Array, Hash Table, Sliding Window | [Python](./Array/69-length-of-longest-subarray-with-at-most-k-frequency.py) |
