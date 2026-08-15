@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 71
+* Total Solved: 72
 * Easy: 24
-* Medium: 35
+* Medium: 36
 * Hard: 12
 
 ## Solved Problems
@@ -84,3 +84,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 69 | Length of Longest Subarray With at Most K Frequency | Medium | Array, Hash Table, Sliding Window | [Python](./Array/69-length-of-longest-subarray-with-at-most-k-frequency.py) |
 | 70 | Longest Substring of One Repeating Character | Hard | String, Segment Tree | [Python](./Segment-Tree/70-longest-substring-of-one-repeating-character.py) |
 | 71 | Maximum Length Substring With Two Occurrences | Easy | String, Hash Table, Sliding Window | [Python](./String/71-maximum-length-substring-with-two-occurrences.py) |
+| 72 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array, Bit Manipulation | [Python](./Bit-Manipulation/72-longest-subsequence-with-non-zero-bitwise-xor.py) |
