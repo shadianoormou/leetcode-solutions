@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 72
+* Total Solved: 73
 * Easy: 24
-* Medium: 36
+* Medium: 37
 * Hard: 12
 
 ## Solved Problems
@@ -85,3 +85,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 70 | Longest Substring of One Repeating Character | Hard | String, Segment Tree | [Python](./Segment-Tree/70-longest-substring-of-one-repeating-character.py) |
 | 71 | Maximum Length Substring With Two Occurrences | Easy | String, Hash Table, Sliding Window | [Python](./String/71-maximum-length-substring-with-two-occurrences.py) |
 | 72 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array, Bit Manipulation | [Python](./Bit-Manipulation/72-longest-subsequence-with-non-zero-bitwise-xor.py) |
+| 73 | Stone Game IX | Medium | Array, Math, Greedy, Counting, Game Theory | [Python](./Game-Theory/73-stone-game-ix.py) |
