@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 73
+* Total Solved: 74
 * Easy: 24
 * Medium: 37
-* Hard: 12
+* Hard: 13
 
 ## Solved Problems
 
@@ -86,3 +86,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 71 | Maximum Length Substring With Two Occurrences | Easy | String, Hash Table, Sliding Window | [Python](./String/71-maximum-length-substring-with-two-occurrences.py) |
 | 72 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array, Bit Manipulation | [Python](./Bit-Manipulation/72-longest-subsequence-with-non-zero-bitwise-xor.py) |
 | 73 | Stone Game IX | Medium | Array, Math, Greedy, Counting, Game Theory | [Python](./Game-Theory/73-stone-game-ix.py) |
+| 74 | Stone Game V | Hard | Array, Dynamic Programming, Prefix Sum, Game Theory | [Python](./Dynamic-Programming/74-stone-game-v.py) |
