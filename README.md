@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 74
-* Easy: 24
+* Total Solved: 75
+* Easy: 25
 * Medium: 37
 * Hard: 13
 
@@ -87,3 +87,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 72 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array, Bit Manipulation | [Python](./Bit-Manipulation/72-longest-subsequence-with-non-zero-bitwise-xor.py) |
 | 73 | Stone Game IX | Medium | Array, Math, Greedy, Counting, Game Theory | [Python](./Game-Theory/73-stone-game-ix.py) |
 | 74 | Stone Game V | Hard | Array, Dynamic Programming, Prefix Sum, Game Theory | [Python](./Dynamic-Programming/74-stone-game-v.py) |
+| 75 | Find the Largest Almost Missing Integer | Easy | Array, Hash Table, Counting | [Python](./Array/75-find-the-largest-almost-missing-integer.py) |
