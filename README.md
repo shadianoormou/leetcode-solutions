@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 75
+* Total Solved: 76
 * Easy: 25
-* Medium: 37
+* Medium: 38
 * Hard: 13
 
 ## Solved Problems
@@ -88,3 +88,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 73 | Stone Game IX | Medium | Array, Math, Greedy, Counting, Game Theory | [Python](./Game-Theory/73-stone-game-ix.py) |
 | 74 | Stone Game V | Hard | Array, Dynamic Programming, Prefix Sum, Game Theory | [Python](./Dynamic-Programming/74-stone-game-v.py) |
 | 75 | Find the Largest Almost Missing Integer | Easy | Array, Hash Table, Counting | [Python](./Array/75-find-the-largest-almost-missing-integer.py) |
+| 76 | Cinema Seat Allocation | Medium | Array, Hash Table, Greedy, Bit Manipulation | [Python](./Greedy/76-cinema-seat-allocation.py) |
