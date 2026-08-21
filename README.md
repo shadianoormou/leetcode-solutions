@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 77
+* Total Solved: 78
 * Easy: 26
 * Medium: 38
-* Hard: 13
+* Hard: 14
 
 ## Solved Problems
 
@@ -90,3 +90,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 75 | Find the Largest Almost Missing Integer | Easy | Array, Hash Table, Counting | [Python](./Array/75-find-the-largest-almost-missing-integer.py) |
 | 76 | Cinema Seat Allocation | Medium | Array, Hash Table, Greedy, Bit Manipulation | [Python](./Greedy/76-cinema-seat-allocation.py) |
 | 77 | Distribute Elements Into Two Arrays I | Easy | Array, Simulation | [Python](./Array/3069-Distribute-Elements-Into-Two-Arrays-I.py) |
+| 78 | Kth Smallest Amount With Single Denomination Combination | Hard | Math, Binary Search, Bit Manipulation, Inclusion-Exclusion | [Python](./Math/3116-Kth-Smallest-Amount-With-Single-Denomination-Combination.py) |
