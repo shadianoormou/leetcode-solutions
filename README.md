@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 80
+* Total Solved: 81
 * Easy: 27
 * Medium: 39
-* Hard: 14
+* Hard: 15
 
 ## Solved Problems
 
@@ -93,3 +93,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 78 | Kth Smallest Amount With Single Denomination Combination | Hard | Math, Binary Search, Bit Manipulation, Inclusion-Exclusion | [Python](./Math/3116-Kth-Smallest-Amount-With-Single-Denomination-Combination.py) |
 | 79 | Check Divisibility by Digit Sum and Product | Easy | Math | [Python](./Math/3622-Check-Divisibility-by-Digit-Sum-and-Product.py) |
 | 80 | Sum Game | Medium | Math, String, Game Theory | [Python](./Game-Theory/1927-Sum-Game.py) |
+| 81 | Stone Game VIII | Hard | Array, Math, Dynamic Programming, Game Theory | [Python](./Game-Theory/1872_Stone_Game_VIII.py) |
