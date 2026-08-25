@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 81
-* Easy: 27
+* Total Solved: 82
+* Easy: 28
 * Medium: 39
 * Hard: 15
 
@@ -94,3 +94,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 79 | Check Divisibility by Digit Sum and Product | Easy | Math | [Python](./Math/3622-Check-Divisibility-by-Digit-Sum-and-Product.py) |
 | 80 | Sum Game | Medium | Math, String, Game Theory | [Python](./Game-Theory/1927-Sum-Game.py) |
 | 81 | Stone Game VIII | Hard | Array, Math, Dynamic Programming, Game Theory | [Python](./Game-Theory/1872_Stone_Game_VIII.py) |
+| 82 | Smallest Missing Multiple of K | Easy | Array, Hash Table, Math | [Python](./Math/3718-Smallest-Missing-Multiple-of-K.py) |
