@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 82
+* Total Solved: 83
 * Easy: 28
-* Medium: 39
+* Medium: 40
 * Hard: 15
 
 ## Solved Problems
@@ -95,3 +95,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 80 | Sum Game | Medium | Math, String, Game Theory | [Python](./Game-Theory/1927-Sum-Game.py) |
 | 81 | Stone Game VIII | Hard | Array, Math, Dynamic Programming, Game Theory | [Python](./Game-Theory/1872_Stone_Game_VIII.py) |
 | 82 | Smallest Missing Multiple of K | Easy | Array, Hash Table, Math | [Python](./Math/3718-Smallest-Missing-Multiple-of-K.py) |
+| 83 | Shortest and Lexicographically Smallest Beautiful String | Medium | String, Sliding Window | [Python](./String/2904-Shortest-and-Lexicographically-Smallest-Beautiful-String.py) |
