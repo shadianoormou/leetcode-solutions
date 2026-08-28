@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 84
+* Total Solved: 85
 * Easy: 28
 * Medium: 41
-* Hard: 15
+* Hard: 16
 
 ## Solved Problems
 
@@ -97,3 +97,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 82 | Smallest Missing Multiple of K | Easy | Array, Hash Table, Math | [Python](./Math/3718-Smallest-Missing-Multiple-of-K.py) |
 | 83 | Shortest and Lexicographically Smallest Beautiful String | Medium | String, Sliding Window | [Python](./String/2904-Shortest-and-Lexicographically-Smallest-Beautiful-String.py) |
 | 84 | Lexicographically Smallest Permutation Greater Than Target | Medium | String, Greedy, Counting, Sorting | [Python](./Greedy/3720-Lexicographically-Smallest-Permutation-Greater-Than-Target.py) |
+| 85 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | String, Greedy, Counting | [Python](./Greedy/3734-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target.py) |
