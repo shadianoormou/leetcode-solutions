@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 86
+* Total Solved: 87
 * Easy: 28
-* Medium: 42
+* Medium: 43
 * Hard: 16
 
 ## Solved Problems
@@ -99,3 +99,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 84 | Lexicographically Smallest Permutation Greater Than Target | Medium | String, Greedy, Counting, Sorting | [Python](./Greedy/3720-Lexicographically-Smallest-Permutation-Greater-Than-Target.py) |
 | 85 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | String, Greedy, Counting | [Python](./Greedy/3734-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target.py) |
 | 86 | Make Lexicographically Smallest Array by Swapping Elements | Medium | Array, Union Find, Sorting | [Python](./Array/2948-Make-Lexicographically-Smallest-Array-by-Swapping-Elements.py) |
+| 87 | Removing Minimum and Maximum From Array | Medium | Array, Greedy | [Python](./Array/2091-Removing-Minimum-and-Maximum-From-Array.py) |
