@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 88
+* Total Solved: 89
 * Easy: 28
-* Medium: 44
+* Medium: 45
 * Hard: 16
 
 ## Solved Problems
@@ -101,3 +101,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 86 | Make Lexicographically Smallest Array by Swapping Elements | Medium | Array, Union Find, Sorting | [Python](./Array/2948-Make-Lexicographically-Smallest-Array-by-Swapping-Elements.py) |
 | 87 | Removing Minimum and Maximum From Array | Medium | Array, Greedy | [Python](./Array/2091-Removing-Minimum-and-Maximum-From-Array.py) |
 | 88 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | Linked List | [Python](./Linked-List/2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points.py) |
+| 89 | Minimum Moves to Clean the Classroom | Medium | Array, Matrix, Breadth-First Search, Bitmask | [Python](./Graph/3568-Minimum-Moves-to-Clean-the-Classroom.py) |
