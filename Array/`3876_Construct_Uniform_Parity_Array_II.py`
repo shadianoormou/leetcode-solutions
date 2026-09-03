@@ -1,0 +1,12 @@
+class Solution:
+    def uniformArray(self, nums1: list[int]) -> bool:
+        # If all numbers are even, keep them as they are
+        if all(x % 2 == 0 for x in nums1):
+            return True
+
+        # If the smallest number is odd,
+        # every even number can subtract it and become odd.
+        if min(nums1) % 2 == 1:
+            return True
+
+        return False
