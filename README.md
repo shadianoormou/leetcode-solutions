@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 90
+* Total Solved: 91
 * Easy: 29
-* Medium: 45
+* Medium: 46
 * Hard: 16
 
 ## Solved Problems
@@ -103,3 +103,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 88 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | Linked List | [Python](./Linked-List/2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points.py) |
 | 89 | Minimum Moves to Clean the Classroom | Medium | Array, Matrix, Breadth-First Search, Bitmask | [Python](./Graph/3568-Minimum-Moves-to-Clean-the-Classroom.py) |
 | 90 | Construct Uniform Parity Array I | Easy | Array, Math | [Python](./Array/3875-Construct-Uniform-Parity-Array-I.py) |
+| 91 | Construct Uniform Parity Array II | Medium | Array, Math | [Python](Array/3876_Construct_Uniform_Parity_Array_II.py) |
