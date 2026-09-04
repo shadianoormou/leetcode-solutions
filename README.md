@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 91
-* Easy: 29
+* Total Solved: 92
+* Easy: 30
 * Medium: 46
 * Hard: 16
 
@@ -104,3 +104,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 89 | Minimum Moves to Clean the Classroom | Medium | Array, Matrix, Breadth-First Search, Bitmask | [Python](./Graph/3568-Minimum-Moves-to-Clean-the-Classroom.py) |
 | 90 | Construct Uniform Parity Array I | Easy | Array, Math | [Python](./Array/3875-Construct-Uniform-Parity-Array-I.py) |
 | 91 | Construct Uniform Parity Array II | Medium | Array, Math | [Python](Array/3876_Construct_Uniform_Parity_Array_II.py) |
+| 92 | Smallest Stable Index I | Easy | Array, Prefix/Suffix | [Python](Array/3903_Smallest_Stable_Index_I.py) |
