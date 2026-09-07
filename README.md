@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 94
+* Total Solved: 95
 * Easy: 30
 * Medium: 47
-* Hard: 17
+* Hard: 18
 
 ## Solved Problems
 
@@ -107,3 +107,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 92 | Smallest Stable Index I | Easy | Array, Prefix/Suffix | [Python](Array/3903_Smallest_Stable_Index_I.py) |
 | 93 | Smallest Stable Index II | Medium | Array, Prefix/Suffix | [Python](Array/3904-smallest-stable-index-ii.py) |
 | 94 | Distinct Subsequences | Hard | String, Dynamic Programming | [Python](Dynamic-Programming/0115-distinct-subsequences.py) |
+| 95 | Distinct Subsequences II | Hard | String, Dynamic Programming | [Python](Dynamic-Programming/0940-distinct-subsequences-ii.py) |
