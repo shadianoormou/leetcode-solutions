@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 95
-* Easy: 30
+* Total Solved: 96
+* Easy: 31
 * Medium: 47
 * Hard: 18
 
@@ -108,3 +108,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 93 | Smallest Stable Index II | Medium | Array, Prefix/Suffix | [Python](Array/3904-smallest-stable-index-ii.py) |
 | 94 | Distinct Subsequences | Hard | String, Dynamic Programming | [Python](Dynamic-Programming/0115-distinct-subsequences.py) |
 | 95 | Distinct Subsequences II | Hard | String, Dynamic Programming | [Python](Dynamic-Programming/0940-distinct-subsequences-ii.py) |
+| 96 | Count Commas in Range | Easy | Math | [Python](Math/3870-count-commas-in-range.py) |
