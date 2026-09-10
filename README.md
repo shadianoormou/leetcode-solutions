@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 97
+* Total Solved: 98
 * Easy: 31
-* Medium: 48
+* Medium: 49
 * Hard: 18
 
 ## Solved Problems
@@ -110,3 +110,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 95 | Distinct Subsequences II | Hard | String, Dynamic Programming | [Python](Dynamic-Programming/0940-distinct-subsequences-ii.py) |
 | 96 | Count Commas in Range | Easy | Math | [Python](Math/3870-count-commas-in-range.py) |
 | 97 | Count Commas in Range II | Medium | Math | [Python](Math/3871-count-commas-in-range-ii.py) |
+| 98 | Count Nodes Equal to Average of Subtree | Medium | Tree, DFS, Binary Tree | [Python](Tree/2265-count-nodes-equal-to-average-of-subtree.py) |
