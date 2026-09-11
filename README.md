@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 98
-* Easy: 31
+* Total Solved: 99
+* Easy: 32
 * Medium: 49
 * Hard: 18
 
@@ -111,3 +111,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 96 | Count Commas in Range | Easy | Math | [Python](Math/3870-count-commas-in-range.py) |
 | 97 | Count Commas in Range II | Medium | Math | [Python](Math/3871-count-commas-in-range-ii.py) |
 | 98 | Count Nodes Equal to Average of Subtree | Medium | Tree, DFS, Binary Tree | [Python](Tree/2265-count-nodes-equal-to-average-of-subtree.py) |
+| 99 | Unique 3-Digit Even Numbers | Easy | Array, Hash Table, Enumeration | [Python](Array/3483-unique-3-digit-even-numbers.py) |
