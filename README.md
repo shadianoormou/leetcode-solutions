@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 100
+* Total Solved: 101
 * Easy: 32
-* Medium: 49
+* Medium: 50
 * Hard: 19
 
 ## Solved Problems
@@ -113,3 +113,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 98 | Count Nodes Equal to Average of Subtree | Medium | Tree, DFS, Binary Tree | [Python](Tree/2265-count-nodes-equal-to-average-of-subtree.py) |
 | 99 | Unique 3-Digit Even Numbers | Easy | Array, Hash Table, Enumeration | [Python](Array/3483-unique-3-digit-even-numbers.py) |
 | 100 | Maximum Score of Non-Overlapping Intervals | Hard | Dynamic Programming, Binary Search, Sorting | [C++](Dynamic-Programming/3414-maximum-score-of-non-overlapping-intervals.cpp) |
+| 101 | Image Overlap | Medium | Array, Matrix | [C++](Array/0835-image-overlap.cpp) |
