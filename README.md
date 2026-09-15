@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 102
+* Total Solved: 103
 * Easy: 33
 * Medium: 50
-* Hard: 19
+* Hard: 20
 
 ## Solved Problems
 
@@ -115,3 +115,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 100 | Maximum Score of Non-Overlapping Intervals | Hard | Dynamic Programming, Binary Search, Sorting | [C++](Dynamic-Programming/3414-maximum-score-of-non-overlapping-intervals.cpp) |
 | 101 | Image Overlap | Medium | Array, Matrix | [C++](Array/0835-image-overlap.cpp) |
 | 102 | Rectangle Overlap | Easy | Math, Geometry | [C++](Math/0836-rectangle-overlap.cpp) |
+| 103 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | String, Dynamic Programming | [C++](Dynamic-Programming/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp) |
