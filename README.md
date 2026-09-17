@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 104
+* Total Solved: 105
 * Easy: 33
-* Medium: 51
+* Medium: 52
 * Hard: 20
 
 ## Solved Problems
@@ -117,3 +117,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 102 | Rectangle Overlap | Easy | Math, Geometry | [C++](Math/0836-rectangle-overlap.cpp) |
 | 103 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | String, Dynamic Programming | [C++](Dynamic-Programming/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp) |
 | 104 | Number of Sets of K Non-Overlapping Line Segments | Medium | Dynamic Programming, Prefix Sum | [C++](Dynamic-Programming/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp) |
+| 105 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Array, Sliding Window, Dynamic Programming | [C++](Sliding-Window/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) |
