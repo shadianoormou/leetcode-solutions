@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 107
+* Total Solved: 108
 * Easy: 34
-* Medium: 53
+* Medium: 54
 * Hard: 20
 
 ## Solved Problems
@@ -120,3 +120,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 105 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Array, Sliding Window, Dynamic Programming | [C++](Sliding-Window/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) |
 | 106 | Maximum Number of Non-Overlapping Substrings | Hard | String, Greedy | [C++](Greedy/1520-maximum-number-of-non-overlapping-substrings.cpp) |
 | 107 | Circle and Rectangle Overlapping | Medium | Math, Geometry | [C++](Math/1401-circle-and-rectangle-overlapping.cpp) |
+| 108 | Find X Value of Array I | Medium | Array, Dynamic Programming | [C++](Array/3524-find-x-value-of-array-i.cpp) |
