@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 109
+* Total Solved: 110
 * Easy: 34
-* Medium: 54
+* Medium: 55
 * Hard: 21
 
 ## Solved Problems
@@ -122,3 +122,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 107 | Circle and Rectangle Overlapping | Medium | Math, Geometry | [C++](Math/1401-circle-and-rectangle-overlapping.cpp) |
 | 108 | Find X Value of Array I | Medium | Array, Dynamic Programming | [C++](Array/3524-find-x-value-of-array-i.cpp) |
 | 109 | Find X Value of Array II | Hard | Array, Segment Tree | [C++](Segment-Tree/3525-find-x-value-of-array-ii.cpp) |
+| 110 | Minimum Operations to Reduce X to Zero | Medium | Array, Sliding Window, Prefix Sum | [C++](Sliding-Window/1658-minimum-operations-to-reduce-x-to-zero.cpp) |
