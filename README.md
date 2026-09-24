@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 110
-* Easy: 34
+* Total Solved: 111
+* Easy: 35
 * Medium: 55
 * Hard: 21
 
@@ -123,3 +123,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 108 | Find X Value of Array I | Medium | Array, Dynamic Programming | [C++](Array/3524-find-x-value-of-array-i.cpp) |
 | 109 | Find X Value of Array II | Hard | Array, Segment Tree | [C++](Segment-Tree/3525-find-x-value-of-array-ii.cpp) |
 | 110 | Minimum Operations to Reduce X to Zero | Medium | Array, Sliding Window, Prefix Sum | [C++](Sliding-Window/1658-minimum-operations-to-reduce-x-to-zero.cpp) |
+| 111 | Smallest Index With Digit Sum Equal to Index | Easy | Array, Math | [C++](Array/3550-smallest-index-with-digit-sum-equal-to-index.cpp) |
