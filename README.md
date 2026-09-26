@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 112
+* Total Solved: 113
 * Easy: 35
-* Medium: 55
+* Medium: 56
 * Hard: 22
 
 ## Solved Problems
@@ -125,3 +125,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 110 | Minimum Operations to Reduce X to Zero | Medium | Array, Sliding Window, Prefix Sum | [C++](Sliding-Window/1658-minimum-operations-to-reduce-x-to-zero.cpp) |
 | 111 | Smallest Index With Digit Sum Equal to Index | Easy | Array, Math | [C++](Array/3550-smallest-index-with-digit-sum-equal-to-index.cpp) |
 | 112 | Brace Expansion II | Hard | String, Backtracking, Set | [C++](String/1096-brace-expansion-ii.cpp) |
+| 113 | Evaluate the Bracket Pairs of a String | Medium | String, Hash Table | [C++](String/1807-evaluate-the-bracket-pairs-of-a-string.cpp) |
