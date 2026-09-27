@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 113
+* Total Solved: 114
 * Easy: 35
-* Medium: 56
+* Medium: 57
 * Hard: 22
 
 ## Solved Problems
@@ -126,3 +126,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 111 | Smallest Index With Digit Sum Equal to Index | Easy | Array, Math | [C++](Array/3550-smallest-index-with-digit-sum-equal-to-index.cpp) |
 | 112 | Brace Expansion II | Hard | String, Backtracking, Set | [C++](String/1096-brace-expansion-ii.cpp) |
 | 113 | Evaluate the Bracket Pairs of a String | Medium | String, Hash Table | [C++](String/1807-evaluate-the-bracket-pairs-of-a-string.cpp) |
+| 114 | Reverse Substrings Between Each Pair of Parentheses | Medium | String, Stack | [C++](String/1190-reverse-substrings-between-each-pair-of-parentheses.cpp) |
