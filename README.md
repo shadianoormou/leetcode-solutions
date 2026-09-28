@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 114
-* Easy: 35
+* Total Solved: 115
+* Easy: 36
 * Medium: 57
 * Hard: 22
 
@@ -127,3 +127,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 112 | Brace Expansion II | Hard | String, Backtracking, Set | [C++](String/1096-brace-expansion-ii.cpp) |
 | 113 | Evaluate the Bracket Pairs of a String | Medium | String, Hash Table | [C++](String/1807-evaluate-the-bracket-pairs-of-a-string.cpp) |
 | 114 | Reverse Substrings Between Each Pair of Parentheses | Medium | String, Stack | [C++](String/1190-reverse-substrings-between-each-pair-of-parentheses.cpp) |
+| 115 | Maximum Nesting Depth of the Parentheses | Easy | String, Stack | [C++](String/1614-maximum-nesting-depth-of-the-parentheses.cpp) |
