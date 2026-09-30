@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 116
+* Total Solved: 117
 * Easy: 36
-* Medium: 57
+* Medium: 58
 * Hard: 23
 
 ## Solved Problems
@@ -129,3 +129,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 114 | Reverse Substrings Between Each Pair of Parentheses | Medium | String, Stack | [C++](String/1190-reverse-substrings-between-each-pair-of-parentheses.cpp) |
 | 115 | Maximum Nesting Depth of the Parentheses | Easy | String, Stack | [C++](String/1614-maximum-nesting-depth-of-the-parentheses.cpp) |
 | 116 | Check if There Is a Valid Parentheses String Path | Hard | Dynamic Programming, Grid | [C++](Dynamic-Programming/2267-check-if-there-is-a-valid-parentheses-string-path.cpp) |
+| 117 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | String, Greedy | [C++](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) |
