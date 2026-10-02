@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 118
+* Total Solved: 119
 * Easy: 37
-* Medium: 58
+* Medium: 59
 * Hard: 23
 
 ## Solved Problems
@@ -131,3 +131,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 116 | Check if There Is a Valid Parentheses String Path | Hard | Dynamic Programming, Grid | [C++](Dynamic-Programming/2267-check-if-there-is-a-valid-parentheses-string-path.cpp) |
 | 117 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | String, Greedy | [C++](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) |
 | 118 | Valid Parentheses | Easy | String, Stack | [C++](Stack/0020-valid-parentheses.cpp) |
+| 119 | Generate Parentheses | Medium | String, Backtracking | [C++](Backtracking/0022-generate-parentheses.cpp) |
