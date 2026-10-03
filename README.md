@@ -4,10 +4,10 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 119
+* Total Solved: 120
 * Easy: 37
 * Medium: 59
-* Hard: 23
+* Hard: 24
 
 ## Solved Problems
 
@@ -132,3 +132,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 117 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | String, Greedy | [C++](String/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) |
 | 118 | Valid Parentheses | Easy | String, Stack | [C++](Stack/0020-valid-parentheses.cpp) |
 | 119 | Generate Parentheses | Medium | String, Backtracking | [C++](Backtracking/0022-generate-parentheses.cpp) |
+| 120 | Longest Valid Parentheses | Hard | String, Stack, Dynamic Programming | [C++](Stack/0032-longest-valid-parentheses.cpp) |
