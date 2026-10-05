@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 121
+* Total Solved: 122
 * Easy: 37
-* Medium: 60
+* Medium: 61
 * Hard: 24
 
 ## Solved Problems
@@ -134,3 +134,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 119 | Generate Parentheses | Medium | String, Backtracking | [C++](Backtracking/0022-generate-parentheses.cpp) |
 | 120 | Longest Valid Parentheses | Hard | String, Stack, Dynamic Programming | [C++](Stack/0032-longest-valid-parentheses.cpp) |
 | 121 | Valid Parenthesis String | Medium | String, Greedy, Stack | [C++](Greedy/0678-valid-parenthesis-string.cpp) |
+| 122 | Score of Parentheses | Medium | String, Stack | [C++](Stack/0856-score-of-parentheses.cpp) |
