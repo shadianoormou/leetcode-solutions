@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 124
-* Easy: 37
+* Total Solved: 125
+* Easy: 38
 * Medium: 62
 * Hard: 25
 
@@ -137,3 +137,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 122 | Score of Parentheses | Medium | String, Stack | [C++](Stack/0856-score-of-parentheses.cpp) |
 | 123 | Minimum Add to Make Parentheses Valid | Medium | String, Stack, Greedy | [C++](Greedy/0921-minimum-add-to-make-parentheses-valid.cpp) |
 | 124 | Remove Invalid Parentheses | Hard | String, Backtracking, BFS | [C++](Backtracking/0301-remove-invalid-parentheses.cpp) |
+| 125 | Remove Outermost Parentheses | Easy | String, Stack | [C++](Stack/1021-remove-outermost-parentheses.cpp) |
