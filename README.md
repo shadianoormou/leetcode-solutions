@@ -4,9 +4,9 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 125
+* Total Solved: 126
 * Easy: 38
-* Medium: 62
+* Medium: 63
 * Hard: 25
 
 ## Solved Problems
@@ -138,3 +138,4 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 123 | Minimum Add to Make Parentheses Valid | Medium | String, Stack, Greedy | [C++](Greedy/0921-minimum-add-to-make-parentheses-valid.cpp) |
 | 124 | Remove Invalid Parentheses | Hard | String, Backtracking, BFS | [C++](Backtracking/0301-remove-invalid-parentheses.cpp) |
 | 125 | Remove Outermost Parentheses | Easy | String, Stack | [C++](Stack/1021-remove-outermost-parentheses.cpp) |
+| 126 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy | [C++](Greedy/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
