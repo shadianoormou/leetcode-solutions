@@ -139,3 +139,5 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 124 | Remove Invalid Parentheses | Hard | String, Backtracking, BFS | [C++](Backtracking/0301-remove-invalid-parentheses.cpp) |
 | 125 | Remove Outermost Parentheses | Easy | String, Stack | [C++](Stack/1021-remove-outermost-parentheses.cpp) |
 | 126 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy | [C++](Greedy/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
+| 127 | Minimum Sum of Squared Difference | Medium | Array, Greedy, Binary Search | [C++](Greedy/2333-minimum-sum-of-squared-difference.cpp) |
+  
