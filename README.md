@@ -4,8 +4,8 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 127
-* Easy: 38
+* Total Solved: 128
+* Easy: 39
 * Medium: 64
 * Hard: 25
 
@@ -140,4 +140,6 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 125 | Remove Outermost Parentheses | Easy | String, Stack | [C++](Stack/1021-remove-outermost-parentheses.cpp) |
 | 126 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy | [C++](Greedy/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 127 | Minimum Sum of Squared Difference | Medium | Array, Greedy, Binary Search | [C++](Greedy/2333-minimum-sum-of-squared-difference.cpp) |
+| 128 | Sum of Squares of Special Elements | Easy | Array, Math | [Python3](Array/2778-sum-of-squares-of-special-elements.py) |
   
+ 
