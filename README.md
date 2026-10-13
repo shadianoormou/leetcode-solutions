@@ -4,7 +4,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 
 ## Progress
 
-* Total Solved: 128
+* Total Solved: 129
 * Easy: 39
 * Medium: 64
 * Hard: 25
