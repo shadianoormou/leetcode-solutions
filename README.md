@@ -5,7 +5,7 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 ## Progress
 
 * Total Solved: 129
-* Easy: 39
+* Easy: 40
 * Medium: 64
 * Hard: 25
 
@@ -141,5 +141,6 @@ I am solving LeetCode problems to improve my data structures, algorithms, and co
 | 126 | Minimum Insertions to Balance a Parentheses String | Medium | String, Stack, Greedy | [C++](Greedy/1541-minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 127 | Minimum Sum of Squared Difference | Medium | Array, Greedy, Binary Search | [C++](Greedy/2333-minimum-sum-of-squared-difference.cpp) |
 | 128 | Sum of Squares of Special Elements | Easy | Array, Math | [Python3](Array/2778-sum-of-squares-of-special-elements.py) |
-  
+| 129 | Maximum Alternating Sum of Squares | Medium | Array, Greedy, Sorting | [Python3](Greedy/3727-maximum-alternating-sum-of-squares.py) |
+
  
